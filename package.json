@@ -13,6 +13,7 @@
     "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.3",
+    "@vercel/speed-insights": "^1.0.14",
     "axios": "^1.6.3",
     "firebase": "^10.14.1",
     "next-themes": "^0.3.0",
