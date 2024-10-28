@@ -16,6 +16,8 @@ VGG Movies es un buscador de pelioculas desarrollado con React 18, usando la API
 
 ## 💻 Demo
 
+[VGG Movies App - Live Demo](https://vgg-movie-search.vercel.app/)
+
 ## 🛠️ Herramientas y Recursos
 
 - [**React**](https://es.react.dev/) - Configuración de un proyecto en React 18 utilizando las últimas características y mejoras.
