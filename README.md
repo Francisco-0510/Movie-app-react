@@ -66,3 +66,27 @@ npm run dev
 - Abre [**http://localhost:5173/**](http://localhost:5173/) en tu navegador apra ver el resultado
 
 ## Screenshot
+
+<div align="center">
+    <img style="max-width: 100%;" src="/public/thumbnails-project/VGG Movies Home.png" />
+</div>
+
+<div align="center">
+    <img style="max-width: 100%;" src="/public/thumbnails-project/VGG Movies Movies Page.png" />
+</div>
+
+<div align="center">
+    <img style="max-width: 100%;" src="/public/thumbnails-project/VGG Movies TV Shows Page.png" />
+</div>
+
+<div align="center">
+    <img style="max-width: 100%;" src="/public/thumbnails-project/VGG Movies Info Movie Page.png" />
+</div>
+
+<div align="center">
+    <img style="max-width: 100%;" src="/public/thumbnails-project/VGG Movies Search Page.png" />
+</div>
+
+<div align="center">
+    <img style="max-width: 100%;" src="/public/thumbnails-project/VGG Movies Watchlist Page.png" />
+</div>
