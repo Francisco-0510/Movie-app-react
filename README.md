@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="300px" src="/public/thumbnails-project/VGG Movies Home.png" />
+    <img style="max-width: 100%;" src="/public/thumbnails-project/VGG Movies Home.png" />
 </div>
 
 ## Movie App - React
@@ -64,3 +64,5 @@ npm run dev
 ```
 
 - Abre [**http://localhost:5173/**](http://localhost:5173/) en tu navegador apra ver el resultado
+
+## Screenshot
