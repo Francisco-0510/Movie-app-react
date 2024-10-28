@@ -6,7 +6,7 @@
 
 VGG Movies es un buscador de pelioculas desarrollado con React 18, usando la API de The Movie Database(TMDb) ontener las peliculas y shows de televisión, así como su respectiva información. Además de utilizar Firebase para la autenticación y FireStore para almacenar todas las peliculas y/o shows en la sección de Watchlist.
 
-## Descripción
+## 🤓 Descripción
 
 - Configuración de un proyecto en React 18 utilizando las últimas características y mejoras.
 - Creación de una interfaz de usuario moderna y adaptable con ChakraUI.
@@ -14,7 +14,7 @@ VGG Movies es un buscador de pelioculas desarrollado con React 18, usando la API
 - Implementación de autenticación de usuario mediante Firebase para una experiencia segura y personalizada.
 - Integración de la base de datos de Firebase para gestionar la lista de seguimiento del usuario.
 
-## ▶️ Demo
+## 💻 Demo
 
 ## 🛠️ Herramientas y Recursos
 
@@ -32,7 +32,7 @@ VGG Movies es un buscador de pelioculas desarrollado con React 18, usando la API
      git https://github.com/Francisco-0510/movie-app-react.git
      ```
 
-    Accede al proyecto `cd movie-app-react`
+    `cd movie-app-react`
 
 ### 2. Instala los paquetes de NPM
 
@@ -44,7 +44,7 @@ npm install
 
 - Para generar tu API KEY puedes seguir la documentación oficial de [TMDb](https://developer.themoviedb.org/docs/getting-started)
 
-### 4.Configura Firebase
+### 4. Configura Firebase
 
 - Accede a la [consola de Firebase](https://firebase.google.com/), crea un proyecto y en las opciones del menu lateral izquierdo, despliega la opción de Compilación y añade Authentication.
 - Agrega el metodo de Auntenticación de Google
@@ -64,5 +64,3 @@ npm run dev
 ```
 
 - Abre [**http://localhost:5173/**](http://localhost:5173/) en tu navegador apra ver el resultado
-
-## 🧞 Comandos
